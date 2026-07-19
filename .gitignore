@@ -43,6 +43,6 @@ example
 /android
 .env
 .neon
-/.agents
-/.claude
-/.vscode
+.agents/
+.claude/
+.vscode/
